@@ -1,0 +1,14 @@
+C:\Users\anakh\source\repos\StoreManagementSystem\StoreManagementSystem\bin\Debug\StoreManagementSystem.exe.config
+C:\Users\anakh\source\repos\StoreManagementSystem\StoreManagementSystem\bin\Debug\StoreManagementSystem.exe
+C:\Users\anakh\source\repos\StoreManagementSystem\StoreManagementSystem\bin\Debug\StoreManagementSystem.pdb
+C:\Users\anakh\source\repos\StoreManagementSystem\StoreManagementSystem\obj\Debug\StoreManagementSystem.csproj.AssemblyReference.cache
+C:\Users\anakh\source\repos\StoreManagementSystem\StoreManagementSystem\obj\Debug\StoreManagementSystem.Properties.Resources.resources
+C:\Users\anakh\source\repos\StoreManagementSystem\StoreManagementSystem\obj\Debug\StoreManagementSystem.csproj.GenerateResource.cache
+C:\Users\anakh\source\repos\StoreManagementSystem\StoreManagementSystem\obj\Debug\StoreManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\anakh\source\repos\StoreManagementSystem\StoreManagementSystem\obj\Debug\StoreManagementSystem.exe
+C:\Users\anakh\source\repos\StoreManagementSystem\StoreManagementSystem\obj\Debug\StoreManagementSystem.pdb
+C:\Users\anakh\source\repos\StoreManagementSystem\StoreManagementSystem\obj\Debug\StoreManagementSystem.DeleteForm.resources
+C:\Users\anakh\source\repos\StoreManagementSystem\StoreManagementSystem\obj\Debug\StoreManagementSystem.Home.resources
+C:\Users\anakh\source\repos\StoreManagementSystem\StoreManagementSystem\obj\Debug\StoreManagementSystem.UpdateForm.resources
+C:\Users\anakh\source\repos\StoreManagementSystem\StoreManagementSystem\obj\Debug\StoreManagementSystem.SearchForm.resources
+C:\Users\anakh\source\repos\StoreManagementSystem\StoreManagementSystem\obj\Debug\StoreManagementSystem.AddForm.resources
